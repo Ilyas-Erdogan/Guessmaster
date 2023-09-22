@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GuessMaster 3.0</string>
+    <string name="mm_dd_yyyy">MM-DD-YYYY</string>
+    <string name="submit_guess">SUBMIT GUESS</string>
+    <string name="change_entity">CHANGE ENTITY</string>
+    <string name="tickets">"Tickets: "</string>
+</resources>
